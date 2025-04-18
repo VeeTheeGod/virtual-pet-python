@@ -19,3 +19,4 @@ Bonus: Includes emoji-enhanced interaction and basic error-handling (e.g., can't
 ---
 
 ## 🧪 Sample Output
+![Sample-output image](C:\Users\THINKPAD\Desktop\Python Tasks\virtual-pet-python/Sample-Output.png)
